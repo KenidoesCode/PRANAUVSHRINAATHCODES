@@ -14,7 +14,7 @@
 
 <br />
 
-<h1 align="center">Hey 👋, I'm Pranauv Shrinaath</h1>
+<h1 align="center">Hey , I'm Pranauv Shrinaath</h1>
 <h4 align="center">🚀 A CSE (AI & ML) student at SRM University, KTR</h4>
 
 ---
